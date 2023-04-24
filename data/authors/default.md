@@ -1,15 +1,31 @@
 ---
 name: Junilliilli
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
+avatar: /static/images/profile.png
+occupation: Software Engineer
 company: Samsung SDS / Yanolja
 email: chso2@naver.com
 linkedin: https://www.linkedin.com/in/%ED%99%8D%EC%A4%80-%EA%B9%80-05a556114/
 github: https://github.com/chso2
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+web developer.  
+experienced full stack, especially interested in the front-end and working as main position.
+can handle front frameworks such as Vue.js, React, and spring devops etc…also. I have been working on various projects and are as follows.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+Yanolja
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+- data distribution platform (backend)
+- new booking engine (flutter)
+
+Samsung
+
+- video conference (front)
+- mobile security (android)
+- authentication (full-stack)
+- online store (front)
+
+Golfzon
+
+- inline video player (front)
+
+Currently, focusing on the development video conference via WebRtc. This will be provided as javascript-sdk, and video conferencing is possible in a browser.
